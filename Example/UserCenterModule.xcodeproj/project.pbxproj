@@ -41,7 +41,7 @@
 		074AF2E08CF94F0F061AA3C2 /* Pods_UserCenterModule_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UserCenterModule_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FD5505E33371C4086CF4048 /* Pods-UserCenterModule_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UserCenterModule_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-UserCenterModule_Example/Pods-UserCenterModule_Example.release.xcconfig"; sourceTree = "<group>"; };
 		30FF08E3E807F785D85CC860 /* Pods-UserCenterModule_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UserCenterModule_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-UserCenterModule_Tests/Pods-UserCenterModule_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		3AD4CA3C45CCA247F48E97DC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		3AD4CA3C45CCA247F48E97DC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* UserCenterModule_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UserCenterModule_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -65,8 +65,8 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		78442CB2030BD64E08A4F29C /* Pods-UserCenterModule_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UserCenterModule_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-UserCenterModule_Tests/Pods-UserCenterModule_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		B010EE378E3CD8154744C30E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		D7A6E668AFC064A5264231ED /* UserCenterModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = UserCenterModule.podspec; path = ../UserCenterModule.podspec; sourceTree = "<group>"; };
+		B010EE378E3CD8154744C30E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		D7A6E668AFC064A5264231ED /* UserCenterModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = UserCenterModule.podspec; path = ../UserCenterModule.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
